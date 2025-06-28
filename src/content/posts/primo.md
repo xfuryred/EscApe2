@@ -3,6 +3,7 @@ title: "Primo post"
 description: "Il mio primo post, un esperimento per vedere la bontà di questo blog"
 date: "2025-06-28"
 ---
+
 Nel mio primo post vorrei essere, prima di tutto, sicuro che tutto funzioni a dovere.  
 Per questo, a costo di tradire una certa insicurezza, vorrei semplicemente cogliere l'occasione per scrivere quanto più testo possibile e andare in deploy, o come si sarebbe detto nei tempi andati, in pubblicazione.
 
