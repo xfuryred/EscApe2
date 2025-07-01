@@ -1,5 +1,6 @@
 ---
 title: Zaalouk
+description: Il mio piatto marocchino preferito
 date: 2025-07-02
 ---
 
