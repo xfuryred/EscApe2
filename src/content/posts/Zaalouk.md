@@ -1,7 +1,6 @@
 ---
 title: Zaalouk
-created: 2025-07-02T00:52:41+02:00
-modified: 2025-07-02T01:11:48+02:00
+date: 2025-07-02
 ---
 
 Vorrei iniziare con qualcosa di positivo questo nuovo blog, dato che normalmente ho usato i miei blog del passato solo per lamentarmi e vorrei cambiare questo mio antipatico trend, così ho intenzione di rendervi partecipi di una delle mie più grandi passioni: la cucina.  
