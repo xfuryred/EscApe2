@@ -14,7 +14,7 @@ in ogni caso, vorrei provare a dare un senso a questo primo post, cercando almen
 Nella home si fa riferimento ad una scimmia, sia nel nome del blog, EscApe, che nel sottotitolo al blog.  
 il motivo è Presto detto e si spiega con una domanda:
 
-## quale è la differenza tra un uomo e una scimmia?
+__Quale è la differenza tra un uomo e una scimmia?__
 
 In buona sostanza una scimmia non sa condividere (Bonomo a parte), mentre l'uomo si.  
 A questo punto immagino che le vostre obiezioni siano (Bonomo a parte, lo ripeto) sul fatto che avete conosciuto un sacco di persone che non sanno condividere, bene, bravi, ma è proprio per questo che io elargisco un semplice ma significativo consiglio nel sottotitolo del blog:  
