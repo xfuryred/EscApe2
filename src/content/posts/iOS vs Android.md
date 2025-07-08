@@ -1,7 +1,7 @@
 ---
 title: iOS vs Android
 description: Il punto di vista e la personale opinione, raramente si incontrano con l'obiettività e la verità
-date: 2025-07-08
+date: 2025-07-08 10:00:00
 ---
 Mi piacerebbe ripartire parlando di tecnologia, una delle mie altre passioni insieme alla cucina; ma prima di farlo mi piacerebbe affrontare un argomento diverso:
 

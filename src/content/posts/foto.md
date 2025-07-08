@@ -1,5 +1,5 @@
 ---
-date: 2025-07-08
+date: 2025-07-08 12:00:00
 title: Foto
 description: una foto bella
 ---
