@@ -1,6 +1,6 @@
 ---
 date: 2025-07-08
-title: fFoto
+title: Foto
 description: una foto bella
 ---
 Avevo voglia di vedere se potevo pubbli care una bella foto.  
