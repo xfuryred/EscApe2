@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondo.md",
+                "file": "iOS vs Android.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "secondo"
+              "title": "iOS vs Android"
             }
           }
         ]
@@ -167,6 +167,8 @@
   },
   "active": "a2e9b762d5d9b649",
   "lastOpenFiles": [
+    "2025-07-04.md",
+    "iOS vs Android.md",
     "secondo.md",
     "primo.md"
   ]
