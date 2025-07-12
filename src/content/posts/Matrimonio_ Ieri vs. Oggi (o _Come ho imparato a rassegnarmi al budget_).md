@@ -4,7 +4,7 @@ title: 'Matrimonio: Ieri vs. Oggi (o "Come ho imparato a rassegnarmi al budget")
 description: piccolo test con IA, dove ho scritto un post parlando del matrimonio
 ---
 
-Ah, il matrimonio! Quel giorno magico, il culmine di un sogno d'amore, l'inizio di una nuova vita insieme... o, se sei come me, il momento in cui ti rendi conto che la tua banca è più vuota di un bar il lunedì mattina. Ma parliamone un po', mettendo a confronto il "come si faceva una volta" con il "come si fa oggi", con una punta di ironia e una buona dose di rassegnazione.
+Ah, il matrimonio! Quel giorno magico, il culmine di un sogno d'amore, l'inizio di una nuova vita insieme... o, se sei come me, il momento in cui t rendi conto che la tua banca è più vuota di un bar il lunedì mattina. Ma parliamone un po', mettendo a confronto il "come si faceva una volta" con il "come si fa oggi", con una punta di ironia e una buona dose di rassegnazione.
 
 ## Ai Tempi dei Boomer: La Semplicità (o la Mancanza di Scelta?)
 
