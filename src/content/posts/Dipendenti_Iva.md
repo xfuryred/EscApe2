@@ -1,5 +1,5 @@
 ---
-date: 2025-07-13 21:34:00
+date: 2025-07-13
 title: 'Benvenuti nell'Eldorado del Lavoro Giovanile: Guida per Sopravvivere tra Stipendi da Fame e Partite IVA Eroiche'
 description: altro post con IA, dove ho scritto un post parlando delle condizioni lavorative dei giovani oggi
 ---
