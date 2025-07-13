@@ -10,8 +10,6 @@ E eccoci qui, nel 2025, con in mano non uno, ma a volte due "pezzi di carta", a 
 
 Analizziamo insieme i due meravigliosi percorsi che questa epoca d'oro ci offre.
 
----
-
 ### **Capitolo 1: Il Dipendente Modello – L'arte di sopravvivere con l'ossigeno (e poco altro)**
 
 Hai scelto la via della presunta sicurezza. Hai firmato un contratto. Congratulazioni! Probabilmente è uno stage curriculare non pagato mascherato da "periodo di formazione", o un tempo determinato di sei mesi che puzza di "poi vediamo".
@@ -21,8 +19,6 @@ Hai scelto la via della presunta sicurezza. Hai firmato un contratto. Congratula
 * **Lo Stipendio:** Ah, il compenso. Quel generoso contributo che l'azienda ti elargisce per il tuo disturbo. Una cifra così simbolica che ti insegna il valore delle piccole cose, tipo decidere se questo mese paghi l'affitto o fai la spesa. Ti educa al minimalismo e al digiuno intermittente, trend attualissimi. I benefit? Certo! Il caffè gratis (dalla macchinetta) e il tavolo da ping pong, perfetto per scaricare lo stress accumulato mentre fai il lavoro di tre persone.
 
 * **La Stabilità:** Ti viene offerta la stabilità di un castello di carte durante un uragano. Un rinnovo dopo l'altro, vivendo con la costante, piacevole sensazione di essere un ospite temporaneo. L'azienda ti definisce "una grande famiglia". Ed è vero. Una di quelle famiglie disfunzionali dei film d'autore, dove il capofamiglia si dimentica di te non appena giri l'angolo.
-
----
 
 ### **Capitolo 2: L'Autonomo Eroe – Libero di Lavorare. Sempre.**
 
@@ -35,8 +31,6 @@ Sei un ribelle. Un sognatore. Hai deciso di non dipendere da nessuno e hai apert
 * **Le Tasse:** Hai un socio di maggioranza silenzioso e molto esigente: lo Stato. Per i primi sei mesi dell'anno lavori per lui. Poi, se avanza qualcosa, forse puoi pensare di comprare un paio di scarpe nuove. Aprire la Partita IVA è un atto di fede. Pagare le tasse che ne derivano è un atto di puro masochismo.
 
 * **I Benefit:** Non hai ferie pagate. Non hai malattia pagata. Non hai tredicesima. In compenso, hai l'adrenalina costante del non sapere se il mese prossimo riuscirai a coprire le spese. Un'emozione impagabile, che tiene giovani e scattanti. La malattia? Un lusso per dipendenti. Un tuo colpo di tosse si cura con una Tachipirina e il terrore di perdere una scadenza.
-
----
 
 ### **E quindi?**
 
