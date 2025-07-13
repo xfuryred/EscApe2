@@ -12,7 +12,7 @@ E eccoci qui, nel 2025, con in mano non uno, ma a volte due "pezzi di carta", a 
 
 Analizziamo insieme i due meravigliosi percorsi che questa epoca d'oro ci offre.
 
-### **Capitolo 1: Il Dipendente Modello – L'arte di sopravvivere con l'ossigeno (e poco altro)**
+### **Il Dipendente Modello – L'arte di sopravvivere con l'ossigeno (e poco altro)**
 
 Hai scelto la via della presunta sicurezza. Hai firmato un contratto. Congratulazioni! Probabilmente è uno stage curriculare non pagato mascherato da "periodo di formazione", o un tempo determinato di sei mesi che puzza di "poi vediamo".
 
@@ -22,7 +22,7 @@ Hai scelto la via della presunta sicurezza. Hai firmato un contratto. Congratula
 
 * **La Stabilità:** Ti viene offerta la stabilità di un castello di carte durante un uragano. Un rinnovo dopo l'altro, vivendo con la costante, piacevole sensazione di essere un ospite temporaneo. L'azienda ti definisce "una grande famiglia". Ed è vero. Una di quelle famiglie disfunzionali dei film d'autore, dove il capofamiglia si dimentica di te non appena giri l'angolo.
 
-### **Capitolo 2: L'Autonomo Eroe – Libero di Lavorare. Sempre.**
+### **L'Autonomo Eroe – Libero di Lavorare. Sempre.**
 
 Sei un ribelle. Un sognatore. Hai deciso di non dipendere da nessuno e hai aperto la Partita IVA. Benvenuto nel club degli eroi moderni, dove la libertà ha il sapore amaro del caffè delle tre di notte.
 
