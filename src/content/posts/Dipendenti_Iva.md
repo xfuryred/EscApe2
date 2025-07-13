@@ -1,6 +1,6 @@
 ---
 date: 2025-07-13
-title: 'Benvenuti nell'Eldorado del Lavoro Giovanile: Guida per Sopravvivere tra Stipendi da Fame e Partite IVA Eroiche'
+title: 'Il Futuro è dei Giovani (se sopravvivono al presente).'
 description: altro post con IA, dove ho scritto un post parlando delle condizioni lavorative dei giovani oggi
 ---
 
