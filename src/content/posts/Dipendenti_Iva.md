@@ -3,6 +3,7 @@ date: 2025-07-13T21:34:00+02:00
 title: 'Benvenuti nell'Eldorado del Lavoro Giovanile: Guida per Sopravvivere tra Stipendi da Fame e Partite IVA Eroiche'
 description: altro post con IA, dove ho scritto un post parlando delle condizioni lavorative dei giovani oggi
 ---
+
 Ah, il mondo del lavoro. Quel luogo mitologico che i nostri genitori descrivevano come un porto sicuro, un traguardo da raggiungere dopo anni di studio. "Prendi il pezzo di carta," dicevano, "e vedrai che le aziende faranno a gara per averti."
 
 E eccoci qui, nel 2025, con in mano non uno, ma a volte due "pezzi di carta", a contemplare l'orizzonte di questo fantomatico Eldorado. Un orizzonte che, a guardarlo bene, assomiglia più a una palude con la nebbia. Ma non disperiamo, perché siamo la generazione della *resilienza*. Una parola bellissima che abbiamo imparato a usare per non dire "sfruttati ma con il sorriso".
