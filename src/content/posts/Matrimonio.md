@@ -1,5 +1,5 @@
 ---
-date: 2025-07-13T00:22:31+02:00
+date: 2025-07-13 00:22:31
 title: 'Matrimonio: Ieri vs. Oggi (o "Come ho imparato a rassegnarmi al budget")'
 description: piccolo test con IA, dove ho scritto un post parlando del matrimonio
 ---
