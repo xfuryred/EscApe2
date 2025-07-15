@@ -40,13 +40,13 @@ I fattori di rischio sono molteplici: una precedente storia di depressione, la m
 
 ## Chiedere Aiuto è un Atto di Forza, non di Debolezza
 
-È cruciale che le neomamme e i loro partner sappiano che non sono soli e che chiedere aiuto è il primo e più importante passo verso la guarigione. La depressione post partum si può e si deve curare.
+La depressione post partum si può e si deve curare e per farlo bisogna sapere da che parte iniziare, quindi la domanda che a questo punto vi starete facendo sarà:
 
 **A chi rivolgersi in Italia?**
 
 * **Consultori Familiari:** Presenti su tutto il territorio nazionale, offrono supporto psicologico e ginecologico.
 * **Centri di Salute Mentale (CSM):** Forniscono assistenza psichiatrica e psicoterapeutica.
-* **Associazioni di supporto:** Esistono numerose associazioni, come "[CiaoLapo Onlus](https://www.fondazione.ciaolapo.it/)" o "[Onda - Osservatorio nazionale sulla salute della donna e di genere](https://fondazioneonda.it/it/chi-siamo/onda-osservatorio/)", che offrono informazioni, gruppi di auto-mutuo aiuto e sportelli di ascolto.
+* **Associazioni di supporto:** Esistono numerose associazioni, come "[CiaoLapo Onlus](https://www.fondazione.ciaolapo.it/)","[Onda - Osservatorio nazionale sulla salute della donna e di genere](https://fondazioneonda.it/it/chi-siamo/onda-osservatorio/)" o [La Leche League Italia](https://www.lllitalia.org/) che offrono informazioni, gruppi di auto-mutuo aiuto e sportelli di ascolto.
 * **Psicologi e psicoterapeuti specializzati in psicologia perinatale.**
 
 Crescere un figlio oggi è una sfida immensa. È un atto di coraggio e di amore che merita rispetto, comprensione e sostegno. A tutti i neogenitori che si sentono sopraffatti, demoralizzati e soli: i vostri sentimenti sono validi. Non abbiate paura di chiedere aiuto. Pedalare da soli è difficile, ma insieme si può arrivare lontano.
