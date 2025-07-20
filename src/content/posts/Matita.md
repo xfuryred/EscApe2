@@ -1,8 +1,11 @@
 ---
 date: 2025-07-14
-title: 'Storia del Mio Strumento Preferito per Avere Paura di Sbagliare'
+title: Storia del Mio Strumento Preferito per Avere Paura di Sbagliare
 description: altro post con IA, dove ho parlato di una semplice matita
 ---
+
+![Image](../../../public/static/2284f20bb6ea2412401349eb6d0f3c8d.jpg) 
+
 Ah, la matita. Quell'umile cilindro di legno e grafite, primo strumento di tortura e, occasionalmente, di espressione che ci viene messo in mano. Un simbolo potente del nostro percorso educativo, che segue una parabola discendente tanto prevedibile quanto la trama di un film di Natale. Un'epopea che inizia con la gloria della prima parola scritta e finisce nell'oblio di un astuccio, riesumata solo dalla paura di commettere un errore indelebile.
 
 ## L'Era della Conquista (e delle Punte Spezzate)
