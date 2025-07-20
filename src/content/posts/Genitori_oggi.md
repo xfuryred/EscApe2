@@ -1,8 +1,11 @@
 ---
 date: 2025-07-15
-title: 'La maternità non è un post di Instagram'
+title: La maternità non è un post di Instagram
 description: altro post con IA, dove ho parlato ddella genetorialità oggi
 ---
+
+![Image](../../../public/static/c5262d8200dfe1f06f2433049dcdf40a.jpg) 
+
 Diventare genitori oggi è un'avventura straordinaria, un salto in un amore che non si conosceva prima. Ma è anche, e soprattutto, una prova di resistenza fisica e mentale che la società contemporanea sembra rendere sempre più ardua, demoralizzante e solitaria. Lontani dall'immagine edulcorata che i social media si ostinano a proporre, la realtà dei neogenitori è fatta di notti insonni, pianti inconsolabili (non solo del bambino), e un senso di inadeguatezza che si insinua subdolo tra una poppata e un cambio di pannolino.
 
 E come se non bastasse, a condire questa già complessa ricetta, arrivano puntuali le frasi di circostanza, i consigli non richiesti e i giudizi velati di chi, evidentemente, ha dimenticato cosa significhi avere tra le braccia una vita completamente dipendente da te.
