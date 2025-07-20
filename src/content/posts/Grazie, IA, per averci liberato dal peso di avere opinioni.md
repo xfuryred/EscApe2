@@ -4,6 +4,8 @@ title: Grazie, IA, per averci liberato dal peso di avere opinioni
 description: post scritto con IA, sulle IA.
 ---
 
+![Image](../../../public/static/a8783d0b7a7d837419abcd49b74397d7.jpg) 
+
 Ricordate i vecchi tempi? Quei giorni gloriosamente caotici in cui per scrivere un post su un blog servivano un'idea, un po' di tempo e, auspicabilmente, la capacità di mettere in fila due frasi senza fare troppi errori di battitura. Ricordo con malcelata nostalgia l'ansia da pagina bianca, la ricerca spasmodica di una sinossi originale, la fatica di raccontare un'esperienza personale sperando che a qualcuno, dall'altra parte dello schermo, potesse interessare. Era un lavoro artigianale, pieno di difetti, a volte goffo, ma innegabilmente nostro.
 
 Per fortuna, quei giorni bui sono finiti. Oggi, grazie al cielo, abbiamo l'Intelligenza Artificiale.
