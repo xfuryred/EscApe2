@@ -1,3 +1,9 @@
+---
+title: Tradire: La Fuga Più Faticosa da Se Stessi
+date: 2025-07-26
+description: Post con IA dove tratto il tema del tradimento
+---
+
 ![Image](../../../public/static/d766c5ca27264c5c4d68ebbf11e2cd9e.jpg) 
 
 Restiamo sbalorditi, in silenzio ammirato, di fronte alla più grande e sottovalutata forma d'arte del nostro tempo: il tradimento. E no, non limitiamoci al banale tradimento romantico, quello è solo il corso per principianti. Eleviamoci, ammiriamo il quadro completo: l'amico fidato che spiffera un segreto per un briciolo di popolarità, il collega che si appropria della tua idea durante la riunione con il capo, e il capolavoro assoluto, il più intimo e devastante: il tradimento verso se stessi, verso i propri sogni e valori, immolati sull'altare della pigrizia o della paura.
