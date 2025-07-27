@@ -1,5 +1,5 @@
 ---
-title: 'Missione Abito da Sposa: Sopravvivere al Tulle e Raccontarlo'
+title: 'Missione abito da sposa: sopravvivere al tulle e raccontarlo'
 date: 2025-07-23
 description: Post con IA dove tratto l'esperienza dell'abito da sposa, secondo lo sposo
 ---

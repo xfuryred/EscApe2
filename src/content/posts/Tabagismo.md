@@ -1,5 +1,5 @@
 ---
-title: L'Arte Incompresa del Fumatore Moderno
+title: L'arte incompresa del fumatore moderno
 date: 2025-07-26
 description: Post con IA dove tratto il tema del tabagismo
 ---

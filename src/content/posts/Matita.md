@@ -1,6 +1,6 @@
 ---
 date: 2025-07-14
-title: Storia del Mio Strumento Preferito per Avere Paura di Sbagliare
+title: Storia del mio strumento preferito per avere paura di sbagliare
 description: altro post con IA, dove ho parlato di una semplice matita
 ---
 

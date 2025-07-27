@@ -1,6 +1,6 @@
 ---
 date: 2025-07-19T23:58:42+02:00
-title: Non Sei Responsabile della Loro Felicità.
+title: Non sei responsabile della loro felicità.
 description: post scritto con IA sui genitori emotivamente immaturi.
 ---
 
