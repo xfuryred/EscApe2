@@ -1,6 +1,6 @@
 ---
 title: 'Tradire: La faticosa fuga da se stessi'
-date: 2025-07-26
+date: 2025-07-27
 description: Post con IA dove tratto il tema del tradimento
 ---
 
